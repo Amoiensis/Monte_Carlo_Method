@@ -74,7 +74,7 @@ Wiki:  [扑克牌斗牛_百度百科 (baidu.com)](https://baike.baidu.com/item/�
    ...
    ```
 
-##### Attention（z注意）
+##### Attention（注意）
 
 Please feel free to contact with me for any questions, thank you!
 
